@@ -1,3 +1,3 @@
 # hello-world
 Learning to create new repository
-Exploring Artificial Intelligence in Github
+to Explore Artificial Intelligence in Github
